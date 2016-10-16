@@ -456,7 +456,7 @@ body {
 }
 
 #slide-4 {
-	background-color: #107505;
+	background-color: #175a3b;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -630,7 +630,7 @@ body {
 }
 
 a {
-    color: #107505;
+    color: #175a3b;
 }
 
 a:hover {
@@ -715,13 +715,13 @@ form:after {
   padding: 0 15px;
   cursor: pointer;
   color: #fff;
-  background-color: #107505;
+  background-color: #175a3b;
   transition: all 300ms ease-in-out;
 }
 
 .buttons input[type="submit"]:hover {
   color: #e4e6e5;
-  background-color: #5cb85c;
+  background-color: #62ad89;
 }
 
 .form-message {
@@ -778,7 +778,7 @@ form:after {
 #form-contact #nome:focus,#email:focus {
   outline: none;
   color: #444;
-  border-color: #107505;
+  border-color: #175a3b;
   border-left-width: 35px;
 }
 #form-contact #nome:focus + i.icon,#email:focus + i.icon {
@@ -813,7 +813,7 @@ form:after {
 #form-contact textarea:focus {
   outline: none;
   color: #444;
-  border-color: #107505;
+  border-color: #175a3b;
   /*border-left-width: 35px;*/
 }
 #form-contact textarea:focus + i.icon {
