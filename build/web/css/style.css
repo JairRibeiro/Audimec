@@ -699,6 +699,31 @@ form:after {
 
 }
 
+.button input{
+  float: center;
+  border: none;
+  height: 37px;
+  line-height: 1;
+  font-size: 18px;
+  padding: 0 15px;
+  cursor: pointer;
+  color: #175a3b;
+  background-color: #f2f2f2;
+  transition: all 300ms ease-in;
+}
+
+.button input[type="submit"]:hover {
+  color: #f2f2f2;
+  background-color: #62ad89;
+}
+
+.button{
+  clear: both;
+  margin: 0 1%;
+  padding-top: 20px;
+  border-top: 1px solid #f2f2f2;
+}
+
 .buttons {
   clear: both;
   margin: 0 1%;
