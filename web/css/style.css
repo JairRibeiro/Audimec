@@ -700,7 +700,7 @@ form:after {
 }
 
 .button input{
-  float: center;
+   float: left;
   border: none;
   height: 37px;
   line-height: 1;
