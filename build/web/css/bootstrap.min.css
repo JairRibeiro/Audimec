@@ -1785,17 +1785,25 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-  color: #ffffff;
+    background-color: #f2f2f2; 
+    border-color:#175a3b; 
+    color: #175a3b;
+    outline: none;
+/*  color: #ffffff;
   background-color: #428bca;
-  border-color: #428bca;
+  border-color: #428bca;*/
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #357ebd;
-  border-color: #3071a9;
+  color: #f2f2f2;
+  background-color: #62ad89;
+  border-color:#62ad89; 
+  outline: none;
+/*  background-color: #357ebd;
+  border-color: #3071a9;*/
 }
 
 .btn-primary.disabled,
